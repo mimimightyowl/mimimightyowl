@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="240" viewBox="0 0 808 240" role="img" aria-labelledby="l-title">
+<title id="l-title">Tracy — Software Engineer, Tbilisi, Georgia</title>
+<defs>
+  <clipPath id="l-win"><rect x="4" y="14" width="800" height="212" rx="12"/></clipPath>
+  <linearGradient id="l-name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2e7de9"/><stop offset="1" stop-color="#9854f1"/>
+  </linearGradient>
+  <radialGradient id="l-b1"><stop offset="0" stop-color="#2e7de9" stop-opacity="0.13"/><stop offset="1" stop-color="#2e7de9" stop-opacity="0"/></radialGradient>
+  <radialGradient id="l-b2"><stop offset="0" stop-color="#9854f1" stop-opacity="0.13"/><stop offset="1" stop-color="#9854f1" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="4" y="14" width="800" height="212" rx="12" fill="#e1e2e7"/>
+<g clip-path="url(#l-win)">
+  <ellipse cx="140" cy="70" rx="380" ry="210" fill="url(#l-b1)"><animate attributeName="cx" values="140;210;140" dur="16s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="700" cy="230" rx="360" ry="190" fill="url(#l-b2)"><animate attributeName="cx" values="700;630;700" dur="19s" repeatCount="indefinite"/></ellipse>
+  <rect x="4" y="14" width="800" height="36" fill="#d5d6db"/>
+</g>
+<rect x="4" y="14" width="800" height="212" rx="12" fill="none" stroke="#c4c8da"/>
+<circle cx="30" cy="32" r="6" fill="#ff5f57"/><circle cx="50" cy="32" r="6" fill="#febc2e"/><circle cx="70" cy="32" r="6" fill="#28c840"/>
+<g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="17">
+  <text x="404" y="37" text-anchor="middle" font-size="13" fill="#848cb5">tracy@tbilisi — zsh</text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf"></tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="0.00s" dur="0.60s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">w</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="0.60s" dur="0.12s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">wh</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="0.72s" dur="0.12s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">who</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="0.84s" dur="0.12s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">whoa</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="0.96s" dur="0.12s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">whoam</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="1.08s" dur="0.12s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">whoami</tspan><tspan fill="#2e7de9">█</tspan><set attributeName="visibility" to="visible" begin="1.20s" dur="0.45s"/></text>
+  <text x="38" y="86" visibility="hidden" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#3760bf">whoami</tspan><set attributeName="visibility" to="visible" begin="1.65s" fill="freeze"/></text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.80s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.80s" fill="freeze"/>
+    <text x="38" y="140" font-size="40" font-weight="700" fill="url(#l-name)">Tracy</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.05s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.05s" fill="freeze"/>
+    <text x="38" y="170" fill="#6172b0" xml:space="preserve">Software Engineer  ·  Tbilisi, Georgia</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.40s" fill="freeze"/>
+    <text x="38" y="208" xml:space="preserve"><tspan fill="#587539">~ $ </tspan><tspan fill="#2e7de9">█<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="2.40s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</g>
+</svg>
