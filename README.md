@@ -40,4 +40,9 @@
   </picture>
 </p>
 
+<!-- Contact -->
+<p>
+  <a href="https://www.linkedin.com/in/tracysergeevsnouskii"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+</p>
+
 </div>
