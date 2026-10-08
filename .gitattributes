@@ -1,0 +1,2 @@
+# The header generator is tooling, not the language of this repository.
+scripts/gen_header.py linguist-vendored

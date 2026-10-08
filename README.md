@@ -21,8 +21,8 @@
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mimimightyowl&show_icons=true&hide=stars%2Cissues%2Ccontribs&show=prs_merged&hide_rank=true&line_height=24&card_width=400&border_radius=12&title_color=2e7de9&icon_color=9854f1&text_color=3760bf&bg_color=e1e2e7&border_color=c4c8da">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimightyowl&layout=compact&langs_count=4&hide=plpgsql%2Chtml%2Ccss%2Cdockerfile%2Cmakefile&card_width=400&border_radius=12&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=2b2f44">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimightyowl&layout=compact&langs_count=4&hide=plpgsql%2Chtml%2Ccss%2Cdockerfile%2Cmakefile&card_width=400&border_radius=12&title_color=2e7de9&text_color=3760bf&bg_color=e1e2e7&border_color=c4c8da">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimightyowl&exclude_repo=mimimightyowl&layout=compact&langs_count=4&hide=plpgsql%2Chtml%2Ccss%2Cdockerfile%2Cmakefile&card_width=400&border_radius=12&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=2b2f44">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimightyowl&exclude_repo=mimimightyowl&layout=compact&langs_count=4&hide=plpgsql%2Chtml%2Ccss%2Cdockerfile%2Cmakefile&card_width=400&border_radius=12&title_color=2e7de9&text_color=3760bf&bg_color=e1e2e7&border_color=c4c8da">
   </picture>
 </p>
 <p>
